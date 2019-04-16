@@ -1,0 +1,76 @@
+,,,,
+,"Abaques DINSIC - correspondance avec les valeurs par défaut du MAREVA allégé",,,
+,"MAREVA allégé",,,
+,,,,
+,,,,
+,"Poste de dépense","Méthode d'estimation (DINSIC, article 3)","Valeur par défaut DINSIC MAREVA allégé","Remarque complémentaire"
+,"Licence","Prix public du fournisseur
+Offre du fournisseur","Pas de valeur par défaut","Logiciel libre: Si la licence du logiciel libre (gratuit) et si vous souhaitez estimer, malgré tout, les coûts de votre projet par rapport à un coût de licence, vous avez la possibilité de mettre le coût estimé pour une solution payante équivalente pour le poste ""licence"" et d'annuler ce coût dans la poste de dépenses ""Autres"" (nombre négatif)"
+,"Matériel - Infrastructure","0.5 – 1 fois le coût de la licence ","0.5 fois le coût de la licence ",
+,"Réalisation, qualification technique","1 - 2 fois le coût de la licence 
+Nombre de jours-homme x coût du jour-homme (benchmarks et/ou offre du fournisseur)","1  fois le coût de la licence 
+","Attention: la répartition entre les coûts directs et indirects s'effectue directement à travers les % inscrits en colonne G.
+Ex: si vous estimez que les coûts de Réalisation sont égaux à 100% des coûts de Licence avec une répartition égale entre les  coûts directs et les coûts indirects, inscrivez ""50%"" (colonne G) du ""coût de Licence"" (colonne H) à la fois pour la ligne ""Réalisation (direct)' et la ligne ""Réalisation (indirect - T2)"". "
+,"Pilotage du projet","10-25% des coûts de réalisation
+Nombre de jours-homme x coût du jour-homme (benchmarks et/ou offre du fournisseur)","15% des coûts de réalisation",
+,"Conduite du changement, qualification métier","10-20% des coûts de réalisation
+Nombre de jours-homme x coût du jour-homme (benchmarks et/ou offre du fournisseur)","15% des coûts de réalisation
+",
+,"Mise en production","Equivaut au coût de la licence
+Nombre de jours-homme x coût du jour-homme (benchmarks et/ou offre du fournisseur)","Equivaut au coût de la licence",
+,"Formation","Nombre de jours-homme x coût du jour-homme 
+10-15 jours de formation par utilisateur professionnel
+5-7 jours de formation par utilisateur standard
+0.5 jour de formation par utilisateur du portail web
+8-12 participants par formateur
+","Pas de valeur par défaut",
+,,,,
+,"MAREVA allégé",,,
+,,,,
+,"Poste de dépense","Méthode d'estimation (DINSIC, article 3)","Valeur par défaut DINSIC MAREVA allégé","Remarque complémentaire"
+,"Exploitation","1 ETP pour 75-100 utilisateurs standard 
+25%-50% des coûts d’infrastructure initiaux (par an)
+","25% des coûts d’infrastructure initiaux (par an)",
+,"Maintenance matériel et infrastructure (cible)","10% du coût du serveur
+","5% des coûts d’infrastructure initiaux (par an)",
+,"Maintenance application (cible)","18-22% du coût de la licence
+","20% des coûts de licence (par an)",
+,"Amortissements du projet (cible)
+","N/A","Pas de valeur par défaut",
+,"Abonnement (cible)","N/A","Pas de valeur par défaut",
+,"Formation continue (cible)","50%-100% du coût de la formation initiale
+","50% du coût de la formation initiale
+",
+,"Support","Niveau 1 : 2-3 appels par utilisateur / an (TBC)
+Niveau 2 : 1 appel pour 50 utilisateurs / an (TBC)
+Niveau 3 : 1 appel pour 500 utilisateurs / an (TBC)
+","Pas de valeur par défaut, à insérer dans ""Autres"" ",
+,,,,
+,"MAREVA allégé",,,
+,,,,
+,"Poste de dépense","Méthode d'estimation (DINSIC, article 3)","Valeur par défaut DINSIC MAREVA allégé","Remarque complémentaire"
+,"Budget total du projet","Intégration des coûts complets du projet:
+-coûts directs (prestataires, matériels, formateurs externes…)
+-coûts indirects (T2 MOA/AMOA/MOE, frais de déplacement, frais de formateurs internes..)","Intégration des coûts complets du projet:
+-coûts directs (prestataires, matériels, formateurs internes…)
+-coûts indirects (T2 MOA/AMOA/MOE, frais de déplacement, frais de formateurs externes..)","Budget total: si vous renseignez le budget total du projet (cellule E85) afin d'utiliser les abaques correspondantes inscrites en colonne H pour tout ou partie des postes de dépenses inscrits en colonne B, le cumul des coûts (directs + indirects) inscrits en colonne E doit être égal au montant inscrit en cellule E85.
+Logiciel libre: Si la licence du logiciel est libre et si vous souhaitez estimer, malgré tout, les coûts de votre projet par rapport à un coût de licence, vous avez la possibilité de mettre le coût estimé pour une solution payante équivalente pour le poste ""licence"" et d'annuler ce coût dans la poste de dépenses ""Autres"" (nombre négatif)"
+,"Matériel - Infrastructure","Pas de méthode d'estimation","Pas de valeur par défaut",
+,"Etude et conception","15 - 30% du budget total du projet (hors matériel et infrastructure)","15% du budget total du projet (hors matériel et infrastructure)","Attention: la répartition entre les coûts directs et indirects s'effectue directement à travers les % inscrits en colonne G.
+Ex: si vous estimez que les coûts de Réalisation sont égaux à 100% des coûts de Licence avec une répartition égale entre les  coûts directs et les coûts indirects, inscrivez ""50%"" (colonne G) du ""coût de Licence"" (colonne H) à la fois pour la ligne ""Réalisation (direct)' et la ligne ""Réalisation (indirect - T2)"". "
+,"Réalisation","30 - 40% du budget total du projet (hors matériel et infrastructure)","40% du budget total du projet (hors matériel et infrastructure)",
+,"Pilotage du projet","5 - 10% du budget total du projet (hors matériel et infrastructure)","5% du budget total du projet (hors matériel et infrastructure)",
+,"Conduite du changement, qualification technique et métier","20 - 30% du budget total du projet (hors matériel et infrastructure)","30% du budget total du projet (hors matériel et infrastructure)",
+,"Mise en production","10-15% du budget total du projet (hors matériel et infrastructure)","10% du budget total du projet (hors matériel et infrastructure)",
+,,,,
+,"MAREVA allégé",,,
+,,,,
+,"Poste de dépense","Méthode d'estimation (DINSIC, article 3)","Valeur par défaut DINSIC MAREVA allégé","Remarque complémentaire"
+,"Exploitation",,"25% des coûts d’infrastructure initiaux (par an)",
+,"Maintenance matériel et infrastructure (cible)",,"5% des coûts d’infrastructure initiaux (par an)",
+,"Maintenance application (cible)",,"Pas de valeur par défaut",
+,"Amortissements du projet (cible)
+",,"Pas de valeur par défaut",
+,"Abonnement (cible)",,"Pas de valeur par défaut",
+,"Formation continue (cible)",,"Pas de valeur par défaut",
+,"Support",,"Pas de valeur par défaut, à insérer dans ""Autres"" ",
